@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2020_21</string>
+    <string name="facebook_app_id">241336464234140</string>
+    <string name="fb_login_protocol_scheme">fb241336464234140</string>
+</resources>
